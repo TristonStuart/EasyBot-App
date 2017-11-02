@@ -1,14 +1,16 @@
 # EasyBot-App
 ## A discord bot creator. Note : Source Files
 ## Made By : Triston Stuart
-## Download Compiled Version (The actual app) :
 ---------------------------------------------------
+## Download Compiled Version (The actual app) :
 ### http://easybot.ga/download/v/new
+---------------------------------------------------
 ## Website :
 ### http://easybot.ga
-
+---------------------------------------------------
 ## Documentation :
 ### http://easybot.ga/docs
+---------------------------------------------------
 ## Outline / Guidlines when contributing :<br>
 Ok so this is a node.js app, using chrome, it will launch chrome to 127.0.0.1:800 after it starts a webserver.<br>
 Chrome will need to be used unless someone can add multi-browser support.<br>
