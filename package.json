@@ -30,6 +30,7 @@
   },
   "homepage": "https://github.com/TristonStuart/EasyBot-App#readme",
   "dependencies": {
-    "express": "^4.16.2"
+    "express": "^4.16.2",
+    "opn": "^5.1.0"
   }
 }
