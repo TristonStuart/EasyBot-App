@@ -1,0 +1,35 @@
+{
+  "name": "source",
+  "version": "1.0.0",
+  "description": "A discord bot creator.",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/TristonStuart/EasyBot-App.git"
+  },
+  "keywords": [
+    "discord",
+    "bot",
+    "creator",
+    "app",
+    "js",
+    "node",
+    "javascript",
+    "free",
+    "open-source",
+    "open",
+    "source"
+  ],
+  "author": "Triston Stuart",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/TristonStuart/EasyBot-App/issues"
+  },
+  "homepage": "https://github.com/TristonStuart/EasyBot-App#readme",
+  "dependencies": {
+    "express": "^4.16.2"
+  }
+}
