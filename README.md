@@ -2,13 +2,13 @@
 ## A discord bot creator. Note : Source Files
 ## Made By : Triston Stuart
 <br>
-## Download Compiled Version (The actual app) :
+## Download Compiled Version (The actual app) :<br>
 ### http://easybot.ga/download/v/new
 <br>
-## Website :
+## Website :<br>
 ### http://easybot.ga
 <br>
-## Documentation : 
+## Documentation :<br> 
 ### http://easybot.ga/docs
 <br>
 <br>
